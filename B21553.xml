@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Presbytery popish, not episcopacy by way of epistolary discourse to a person of a misperswasion leading presbytery to the school of repentance rather than to continue in the seat of the scornful / by H.E.</title>
+            <author>Edmonds, Hugh.</author>
+         </titleStmt>
+         <extent>Approx. 87KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21553</idno><idno type="EEBO-CITATION">11209932</idno>
+  <idno type="VID">204910</idno>
+  <idno type="EEBO-PROQUEST">2240864981</idno>
+  
+            <idno type="STC">Wing E178B</idno>
+            <idno type="OCLC">11209932</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Presbytery popish, not episcopacy by way of epistolary discourse to a person of a misperswasion leading presbytery to the school of repentance rather than to continue in the seat of the scornful / by H.E.</title>
+                  <author>Edmonds, Hugh.</author>
+               </titleStmt>
+               <extent>[6], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philemon Stephens the younger ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The authors letter to an anti-episcopall minister concerning the government of the church" has special t.p.</note>
+                  <note>"Metromachia, or, A poetical combat betwixt the authour and the same minister," pp. 39-48.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government.</term>
+               <term type="topical_term">Church polity.</term>
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:204910:1"/>
+                  <pb facs="tcp:204910:1"/>
+                  <p>Presbytery POPISH, NOT EPISCOPACY.</p>
+                  <p>By way of <hi>Epistolary Discourse</hi> to a Person of a misperswa<g ref="char:EOLhyphen"/>sion, leading <hi>Presbytery</hi> to the School of Repentance, ra<g ref="char:EOLhyphen"/>ther then to continue in the seat of the scornful.</p>
+                  <p>By <hi>H. E.</hi>
+                  </p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Philemon Stephens</hi> the younger, at the <hi>Kings Arms,</hi> over a<g ref="char:EOLhyphen"/>gainst the <hi>Middle Temple</hi> Gate in <hi>Fleetstreet.</hi> 1661.</p>
+               </div>
+               <div type="to_the_reader">
+                  <pb facs="tcp:204910:2"/>
+                  <pb facs="tcp:204910:2"/>
+                  <head>To the READER</head>
+                  <opener>
+                     <salute>Courteous Reader,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">A</seg>Lthough the many Books which have been already printed in de<g ref="char:EOLhyphen"/>fence of Episcopacy, may seem not only to forestal the credit, but to evacuate the use of future Impressions, about the same sub<g ref="char:EOLhyphen"/>ject; yet considering the messe of Confederate Brethren, who are sworn to oppose it, which (being an Oglio of all Sects) is of far greater dimension then the defendant party. I presumed it would not amount to the reckoning of a vanity to enter with my unkeen weapon into the same field: which (though unworthy to be mustered with those for<g ref="char:EOLhyphen"/>ces of wit, that fight for victory) may serve (like
+<pb facs="tcp:204910:3"/> the attendants <hi>of</hi> an Army) to face the enemy. It is the fate of truth for its naked simplicity to be as little known, as trusted, with earthly inhabitants: whereas errour, clothed with glosing variety, finds not only acceptation, but maintenance in the hearts of most. What Gangrenes of Heresies, and fret<g ref="char:EOLhyphen"/>ting sores of schismatical opinions have infested the body of our National Church? since Bishops (the ministerial preservers thereof in soundnesse of Do<g ref="char:EOLhyphen"/>ctrine) were first divorced from their office, as the History of former ages can yield no examples to parallel, so (being by Satans subtilty heightned to an exquisite degree of wickednesse) the possible corruption of succeeding times, will want inventi<g ref="char:EOLhyphen"/>on to excel. Such was the sudden growth <hi>of</hi> gree<g ref="char:EOLhyphen"/>dy innovations in the black art of enmity, against their ancient guides, that experience hath proved them to be a true exception to the Philosophers saying, <hi>Nemo repente fit turpisaimus.</hi> And if their master, who raised them to the pinacle of prefer<g ref="char:EOLhyphen"/>ment, had not thrown them down headlong by a timely temptation, they would have all turned conceited Monarchs, and not lookt over, but for the Kingdomes of the earth. It will be as much shame hereafter to report, as it is now grief to re<g ref="char:EOLhyphen"/>member
+<pb facs="tcp:204910:3"/> the fiery generation of those meteors of men, which (rising by the fall of our great stars) have vapoured from the Regions both of pulpit and presse, into the houses of the honourable, and musty Cottages of the basest people, deluding them into such a lamentable deviation from their right principles, that the greatest part os them (like benighted Drunkards) are not yet able to finde the way home. The consideration whereof doth offer us so much occasion, to pity the dangerous estate of their diseased souls, that I could wish no better successe to attend this work, then that, by detecting the malignant distemper of their faults, it may become a direction for their recovery. But knowing that habituated Crimes will not readily yield to a seperation from the subjects that possesse them, and that custome in sin, (holding reason in bondage to the dominion of sense) doth seldome nauseate the sinner to a detestation thereof. I am disposed to doubt, that the event will be unan<g ref="char:EOLhyphen"/>swerable to the scope of my desire. However the chiefest Part of this Book being written in time of persecution, when Tyranny had stated the Tribes of all honest men in a fitter capacity of receiving wrongs then giving reasons, I shall not now dis<g ref="char:EOLhyphen"/>own
+<pb facs="tcp:204910:4"/> the exposing thereof to publick view, though it happen to make a fermentation of humours in the cholerick stomacks of our English Pharisees. For being set forth with the same intention where<g ref="char:EOLhyphen"/>with it was first penned, more to declare my wil<g ref="char:EOLhyphen"/>lingnesse to approve, then ability of mind to de<g ref="char:EOLhyphen"/>fend the right of Episcopal Government. It may not be coujectured to be composed with confi<g ref="char:EOLhyphen"/>dence to confute those that deny, but out of love to confirm them who believe the same.</p>
+                  <p>To thee therefore, Gentle Reader, whosoever thou art of this number, do I principally dedicate this my labour, wherein if thou apprehend no<g ref="char:EOLhyphen"/>thing deserving thy condemnation, but the truth of my affection to the welfare of the Church, it will be applause enough to satisfie the expectation of</p>
+                  <closer>
+                     <signed>Thy well-wishing friend,<lb/> HUGH EDMONDS.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="treatise">
+                  <pb n="1" facs="tcp:204910:4"/>
+                  <head>THE CENSORS CENSURED.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>S in natural, so in bodies Politique, there are no distempers more smartly afflict<g ref="char:EOLhyphen"/>ing, than those which invade the most noble parts, and amongst the many cau<g ref="char:EOLhyphen"/>ses, which work a solution of unity, in a civill constitution of government, the corrupt humours of a brain-sick clergy are the most intrinsecal. The Truth whereof, though we have by the sad experiences of our own past miseries been better taught to bewail, than dispute; yet being farther instructed by the present discovery of their pro<g ref="char:EOLhyphen"/>pagated mischiefs (notwithstanding the bountiful rayes of mercy diffused amongst them from our <hi>Englands</hi> Sun) we cannot but account it a pitifull folly to commiserate them, who think it a virtue to be cruel to themselves; for they, whom neither the sense of their own sin, nor apprehension of the Kings pardon can reform, must needs be not onely the
+<pb n="2" facs="tcp:204910:5"/> worst of subjects, but men. What lawful ground those Asso<g ref="char:EOLhyphen"/>ciates have had to shew themselves so lately busie with their tongue-pullies, to draw on a pack of Craftsmen into a Con<g ref="char:EOLhyphen"/>spiracie of hands, for the raising up of their Presbyterian <hi>Diana;</hi> and by the pionerie of their wits to undermine the foundation of the Kings Authoritie in spiritual affairs, coveteousnesse and pride must be the Advocates, (though ignorance be the chief witnesse) in their plea, should the Grandees of the Church (because they are the Apostles Derivatives, betwixt Christ &amp; whom there was no temporal jurisdiction intervenient) con<g ref="char:EOLhyphen"/>clude for themselves a priviledge of immunitie from the pow<g ref="char:EOLhyphen"/>er of Kings in Ecclesiasticalls; There might appear some rea<g ref="char:EOLhyphen"/>son in the face, though no truth in the bulk of the Argument; but for Petit Presbyters who are but under-graduates in spiri<g ref="char:EOLhyphen"/>tual jurisdiction, and, for the outside of their calling, the Bi<g ref="char:EOLhyphen"/>shops workmanship, for such, I say, hoven up with a Timpa<g ref="char:EOLhyphen"/>nie of impudent ambition, to entitle themselves to that, which their second makers with humilitie disown, even in the most Hierarchical order of the Clergie, can be no lesse than an act of capital presumption, and sawcie irreverence, which hath not so much as the countenance of a rational plea to defend it. Amongst the seven things which God hateth, pride is the sin of the first Claffis, <hi>Pro.</hi> 6. 6. &amp; for its antiquitie of Lordship hath the preheminence, whereby only it cometh to passe (saith the same wisdome) that man maketh contention; in exemplificati<g ref="char:EOLhyphen"/>on whereof, I have newly observed some stiffe-necked factors of the Presbyterian merchandise so haughtily stubborn in their opinion, that they seem desperately resolved rather to break with their own errours, than bow to the truth, which others maintain, being now fuller of scornfull discontent in the eyes, then heretofore they have been of envious detraction in their mouths, as if (like the Sun) they were naturalized to look
+<pb n="3" facs="tcp:204910:5"/> biggest, when they are going down; and although our Graci<g ref="char:EOLhyphen"/>ous Sovereign, for his complacency and benevolence to all peo<g ref="char:EOLhyphen"/>ple, doth rightly compeer that Darling of mankind, <hi>Qui ne<g ref="char:EOLhyphen"/>minem à se dimisit tristem,</hi> and for his compassion and charitie is not inferiour to the <hi>Scottish</hi> Monarch, who was therefore stiled the poor mans King: yet the tyrannie of these mens arrogant spirits, will not allow them to pray for this incomparable per<g ref="char:EOLhyphen"/>son by his determinate name, but to present him to heaven in a driblet of words, under the notion only of <hi>Individuum ex hy<g ref="char:EOLhyphen"/>pothesi,</hi> as if <hi>Charles</hi> the Second, were to them a <hi>Shibboleth,</hi> which they could no more plainly pronounce han obey. It may well therefore be wished, that his Sacred Majestie would in Iustice (which is the root of mercie) be pleased to doe to the insolent Presbyters, what once the good <hi>Theodosius</hi> said to a contentious Prelate, <hi>Si tu paeem fugis, ego te ab Ecclesia fugere mando,</hi> which would be a readie means to prevent such Church Moths from fretting out the beauty of that garment, wherein they are bred, and to extinguish the generation of Diotrephan Tribes, who (like intestine worms, maintained by the hospi<g ref="char:EOLhyphen"/>tality of the stomack) out of a greedie appetite to higher fare, than their Ordinary can afford them, will at last destroy the very body that gave them being. But that their mouths may not be fully stopt, before they have spoken the utmost for themselves, <hi>I</hi> shall do them that right to declare what <hi>I</hi> have learned from some of their stars of the first magnitude, by whose influence of wit the lesser lights are supplied with this subtile distinction, which indeed is but an excuse as blameable as the fault, we are, say they, subject to Kings <hi>circa sacra,</hi> but not <hi>in sacris,</hi> whereby they falsly suppose themselves in their ministerial Robes, so absolutely impropriate to God, that no man can have a Relative interest in them, and, within the pale of the pulpit, to be such a peculiar inclosure from the Com<g ref="char:EOLhyphen"/>mons
+<pb n="4" facs="tcp:204910:6"/> of the Nation, that they are not base enough for subje<g ref="char:EOLhyphen"/>ction to the high way of the Kings Government, as if their spiritual incumbencie were a decreed exception to the Apo<g ref="char:EOLhyphen"/>stles <hi>Rom. 13. 1. Omnis anima,</hi> and their ordination to teach supream Magistrates an injunction not to obey him. Surely <hi>Hilkiah</hi> (a better man than a Presbyter) was not of their mind nor manners, in his religious behaviour towards his Sove<g ref="char:EOLhyphen"/>reign, who (though conscious of the Kings youthfull age, more apparently fit to execute the advice, then to command the service of a high Priest) did not take it upon himself to re<g ref="char:EOLhyphen"/>form the abuses of the Church, but waited for better authori<g ref="char:EOLhyphen"/>ty then his own to legitimate the work, and (which is highly observable) having found the book of the Law, which seemed a proper instrument as well for the Priests custody as use, 2 <hi>Kin.</hi> 22. he thought it his duty to deliver it to the King, both to be kept and read. To make a solemn Covenant with God, is <hi>agere in sacris,</hi> a matter that concerns not the skirts, but the very bowels of Divinity; yet this did <hi>Josuah, Jos.</hi> 24. (who was neither Priest nor Prophet) by his kingly authoritie, en<g ref="char:EOLhyphen"/>gaging all the people in subiection thereunto. <hi>Moses,</hi> though not in office, was yet in act, a Priest by consecrating <hi>Aaron,</hi> whence it is more then probable, that Kings by their unction, are endued with a higher capacity to deal in holy things, than our classical Authors will allow them to be, whose power bea<g ref="char:EOLhyphen"/>ring date immediately from the court of Heaven, makes both their persons sacred, and their names divine, whereby they are not only truly, but solely qualified for Gods Deputation, and so being next to the most High, can neither have superiours nor equals upon earth within their Dominions, they are <hi>Christi Domini,</hi> the Lords own anointed, which denomination was ne<g ref="char:EOLhyphen"/>ver given to Priest or Prophet, but (as a learned Bishop hath observed) in 33. places of Scripture (where it may be found)
+<pb n="5" facs="tcp:204910:6"/> is alwayes spoken either of Christ or Kings. It must needs be then the disease of a loyal heart to remember how ingeniously mischievous some Rebels have been heretofore in maintaining the Kings authority, either coordinate or subordinate to the power of Parliaments, and what use hath been since made of thar Hellish Tenent not only for sequestration, but subversion of mens estates, will be easier for our posterity to condemn, than for us to forget. Should our Sovereign Lord the King have been longer deprived of his iust right, in distributing Iu<g ref="char:EOLhyphen"/>stice either by rewarding the vertues, or punishing the vices both of Ecclesiasticall and Civill persons, Gods complaint of Israel might be <hi>Englands</hi> proverbial songs; like people, like Priests, the people would feel the bite of the Priests teeth, the Priests the venome of the peoples tongues, and both the smart of divine judgement, <hi>Ezekiels</hi> foxes would degenerate into <hi>Isaiahs</hi> dogs, those, who did craftily watch, would greedily eat up the sins of the people, and attend their flocks, as the <hi>Caper<g ref="char:EOLhyphen"/>naites</hi> did Christ, to feed their own bellies, and to be clothed with the wool of the sheep, rather than with the Righteous<g ref="char:EOLhyphen"/>nesse of the great Shepherd. But blessed be the name of the Lord, who hath set the Crown on his Majesties head with his own hands, without the vain concurrence of fleshly arm<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, whereby he hath revealed, <hi>per me Reges,</hi> to be not only his word but his deed, not permitting the act, but approving the Right of his Reign, which in Truth should be as well a terrour as conviction to the consciences of those who have stampt it in some peoples brains for doctrine as currant as their Creed, that Monarchical government is but a more noble kind of Tyran<g ref="char:EOLhyphen"/>ny, which hath existence only by Gods connivance, and is ra<g ref="char:EOLhyphen"/>ther the rod of his wrath to punish, than the staffe of his love, to support a Nation. Truly, where there is a brimfulnesse of lenvious resolution to oppose the best, there can be no room for
+<pb n="6" facs="tcp:204910:7"/> charity, which submitteth to the worst of Governours, and it may be justly feared, that no true concordance will inhabit the centre, whilest such Heteroclites are left to lurk in the circum<g ref="char:EOLhyphen"/>ference of the Church, who will rather professe themselves St. <hi>Peters</hi> animals by standing out in their own conceit, than St. <hi>Pauls</hi> souls in stooping to the authority of their lawful superi<g ref="char:EOLhyphen"/>ours, neither can they be well thought fit Trustees for the se<g ref="char:EOLhyphen"/>curitie of the Gospels treasure, who having once shipwrackt their Allegiance to the King, are still bankrupt of faith and ho<g ref="char:EOLhyphen"/>nesty. Those are the old stocks, whereupon Satan hath graffed the variety of Sects, which hath been the shame, and is yet the grief of <hi>Englands</hi> Church, whose first non conformity to Ca<g ref="char:EOLhyphen"/>nonical orders, hath been the very originals, whereunto the ma<g ref="char:EOLhyphen"/>ny copies of obstinate Fanaticks, that are now extant, have their true reference, who following the tracts of St. <hi>Judes</hi> murmurers, in admiration of some mens persons for advantage sake, do dissociate themselves from the community of Saints, not only in opinion, but practise, than which nothing can be more destructive to the concord and peaceable unanimity of spiritual Congregations; for as in physical Compositums, a violent disunion of Integrable parts breeds a more dangerous shisme in the body, than a humerous distemper; so in Eccle<g ref="char:EOLhyphen"/>siastical corporations, an actual seperation from the Catholick fellowship of beleevers in Gods service is a greater pandor to confusion, than the scandal of a speculative distraction. It is time therefore for our Seminary Presbyters, who have been the Protoplastiques of a Rebellious generation, both in Church and State, to make a confession of theit past faults, as well as their present faith to the King. They are now sufficiently read in the book of their own consciences to know, <hi>nemo periculosi<g ref="char:EOLhyphen"/>us peccat, quam qui peccata defendit,</hi> to Apologize for sin is more damnable, than to act it, and not to retract inexcusable
+<pb n="7" facs="tcp:204910:7"/> errours, doth as much unqualifie a delinquent for mercy, as the perpetration thereof can adapt him to justice. Repentance, though it may be too soon ended, can never bee too late be<g ref="char:EOLhyphen"/>gun; he, that lives like St. <hi>Lukes</hi> judge on the bench, neither fearing God, nor regarding man, may have the grace to die like the <hi>Jewes</hi> theef on the Crosse, with profession of both; for that power which expresly denyeth forgivenesse to one sin one<g ref="char:EOLhyphen"/>ly, doth implicitely conceede a possibility of pardon to all o<g ref="char:EOLhyphen"/>thers. On this consideration it would be worth their paines to translate their Petition for Presbytery into a Suit for Indemp<g ref="char:EOLhyphen"/>nity, and publickly to acknowledge his Majesties Declaration which is the proof of his grace, to be an argument of their guilt, who (like cunning fencers, that aim at the legs, when they intend to veny the pate) under a reformative pretence of destroying those ravenous beasts, which worry the people, begg'd leave of their master to hunt the kingdome, which be<g ref="char:EOLhyphen"/>ing granted, they took liberty of themselves to make him their chief game: for it is well known from <hi>Dan</hi> to <hi>Beersheba,</hi> that the credit of their false doctrine was the very leaven where<g ref="char:EOLhyphen"/>with the people were first moulded into a sowre lump of ar<g ref="char:EOLhyphen"/>med malice against their Sovereigne.</p>
+                  <p>And I may truly say, it was the unlucky Boutefen, which not only yielded smoak to smother all Treaties into a nullity of successe, but that gave light also to clear the way for more active instruments then themselves to take off the Head of our eternally renowned Saint <hi>Charles,</hi> together with the Government from his shoulders; for although they entred not the Stage with those miscreants that personated <hi>Pi<g ref="char:EOLhyphen"/>late</hi> in the fifth Act; yet because they appeared with others who playd the parts of <hi>Annas</hi> and <hi>Caiphas,</hi> in the first Scene of the Tragedy, we may justly christen them the Grandfathers in law of that bloudy fact, which being unmatchable in hu<g ref="char:EOLhyphen"/>mane
+<pb n="8" facs="tcp:204910:8"/> stories, may be in some sort compared to the crafty com<g ref="char:EOLhyphen"/>plement of the cruel wolfe in the fable, who told the sheep, <hi>Da mihi potum, &amp; ego mihi dabo cibum,</hi> meaning to eat him up for his courtesie. A fact, which as former ages have not been so learnedly wicked to invent, so I hope the future will be more honestly wise than to imitate; A fact, which may schoole our Kings of <hi>England</hi> into a use of the <hi>Italians</hi> prayer, to be deli<g ref="char:EOLhyphen"/>vered from their friends whom they trust, as well as from their enemies whom they fear, and inform the people with the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> soul, rather to sheath their swords in one anothers bow<g ref="char:EOLhyphen"/>els upon private quarrels, than to draw them against their So<g ref="char:EOLhyphen"/>vereign in open war.</p>
+                  <p>But, if the Recognition of such an execrable murder be not caution enough for subjects to restrain them from Rebellion, let the memorable example of the <hi>Amalekites</hi> punishment be their exhortation to obedience, 2 <hi>Sam.</hi> 1. 13, 14. who (though a stranger to <hi>Sauls</hi> kingdome, and by them requested to con<g ref="char:EOLhyphen"/>clude his pain with the inference of death) was by <hi>Davids</hi> command for touching the Lords anointed, instantly con<g ref="char:EOLhyphen"/>demned to loose his life.</p>
+                  <p>If Kings lives then are so precious in Gods account, that they may not be touched in the heat of proclaimd hostility, what a cursed sin must that be, which justifieth those who take them away in cold bloud?</p>
+                  <p>By these animadversions I hope the whole host of spirituall officers, who have fought against the Regiment of the Church, will be victoriously fens'd into a unanimous Iudgement, that it is far better for them to have the Apostles doctrine in their hearts, then the <hi>Scots</hi> discipline in their hands, to be content with that estate wherein they have been, then to covet that wherein they ought not to be, to submit to the King in causes Ecclesiastical, rather then by calling his power in question, to
+<pb n="9" facs="tcp:204910:8"/> abuse their own authority in the Gospel, to give <hi>Caesar</hi> his, will be no substraction from their due, had not our Saviour paid for himself and <hi>Peter,</hi> it might be doubted, whether the Clerks of this age (like the old <hi>Egyptian</hi> Priests) would not plead their estates untributary, as well as their offices unsubject to the King.</p>
+                  <p>With what tenure of spiritual power they are invested <hi>Ju<g ref="char:EOLhyphen"/>re divino,</hi> none but those Laicks whom the Popes Mandate hath screen'd from the Sun-shine of Gods word, can be ig<g ref="char:EOLhyphen"/>norant.</p>
+                  <p>The officious Acts of <hi>Jehoiada</hi> to <hi>Jehoash,</hi> and <hi>Nathan</hi> to <hi>David,</hi> are not only presidents to warrant the right, but boundaries to limit the extent of their claim; they must in<g ref="char:EOLhyphen"/>struct Kings as the one, and may reprove them as the other did, which was not executed by an excommunicative scourge to make <hi>David</hi> do pennance for his offence, but with the monition of a meek spirit, to give him a penitent sense there<g ref="char:EOLhyphen"/>of; for as the act of reproof argued the King to be Gods subject: so the mode of reproving maintain'd him to be the Prophets Sovereign.</p>
+                  <p>And thus I believe <hi>Azariah,</hi> withstood <hi>Vzziah</hi> by no o<g ref="char:EOLhyphen"/>ther force, save that of the tongue, whose aim was to strike at the fact, not the person of the King, to induce him into a consciousnesse of his fault, not so require his submission to punishment, which, because immediately inflicted of God, supposeth him priviledg'd not to receive it from man: so that <hi>rebus sic, stantibus,</hi> our ministerial Guides have little reason, and lesse grace to pride themselves in their Ghostly authori<g ref="char:EOLhyphen"/>ty of rebuking Kings, such verbal Reprehensions being no more then religious servants (not adventuring beyond the sphear of their calling) may lawfully practise towards their
+<pb n="10" facs="tcp:204910:9"/> ungodly masters; for as it is the Resolve of Divines, that in case of necessity <hi>Quil bet Christianus est sacerdos,</hi> so it is not only the liberty, but the duty of every one in Gods case bold<g ref="char:EOLhyphen"/>ly to reprove an offending brother, as I think my self bound to tell the associated brethren, that they have highly wron<g ref="char:EOLhyphen"/>ged the Majesty of God &amp; the King, both by their orall and manual prolusions to introduce a new fangled governmentin the Church, &amp; that it will be more safe for them to observe the duty of looking into their own, then the false commissi<g ref="char:EOLhyphen"/>on of overseeing their superiours actions, the performance whereof might happily make that saying <hi>ex culpa sacerdotum ruina populi,</hi> to be as well known to themselves, as felt by o<g ref="char:EOLhyphen"/>thers, and convert the hypocrisie, which some do, into the sincerity of obedience, which all should professe; for though none of them be puritanized into Donatisme, but can protest it their necessary obligation to reverence the Kings person, yet most are so far sublimated from the drosse of superstiti<g ref="char:EOLhyphen"/>on, that they cannot without defiling their consciences vaile to the train of his ceremonious Titles, they can easily con<g ref="char:EOLhyphen"/>coct supream Governours, dryly swallowed, but with the sawce of Ecclesiastical causes it quite nauseates their sto<g ref="char:EOLhyphen"/>macks, and the name of head is more offensive to their pa<g ref="char:EOLhyphen"/>lates, then perfumes are to the nostrils of those that are grie<g ref="char:EOLhyphen"/>ved with an Histerical passion; a monstrous straw for such mighty men to stumble at, which may be put in the same ballance with that of their schismatical Predecessours in the conference at <hi>Hampton Court,</hi> who were scandalized with the word absolution in the <hi>Liturgy,</hi> but well content with the Term <hi>Remission of sins.</hi>
+                  </p>
+                  <p>What difference there is betwixt supream Governour and Head in a notional acception, is more fit for Grammatical
+<pb n="11" facs="tcp:204910:9"/> Criticks, then politick Christians to inquire, as they are complicated in one subject, and determined to a constant onenesse both of action and end, they must by the rules of honesty as well as Art, be construed Synonymous, and in a promiscuous manner adjudged to contract their literal vari<g ref="char:EOLhyphen"/>ety into an identity of sense.</p>
+                  <p>Indeed we cannot deny but the Title of supream Head was first given to King <hi>Henry</hi> the Eight by the Pope, who being by his own institution in the world (as the soul is in the body by Gods Creation) <hi>Totus in toto,</hi> and not onely <hi>sin<g ref="char:EOLhyphen"/>gulis,</hi> but <hi>universis major,</hi> cannot be supposed to part with a piece of himself but for his own ends; yet we conceive it no trespasse against any Canon, either of Scripture or reason, to convert that to a good use, which was first bestowed to an ill purpose, but for Presbyters to take that away for the better esteem of their own authority, which was given by the Pope, to disgrace the Kings jurisdiction in the Church, is no lesse unreasonable to devise, then irreligious to pra<g ref="char:EOLhyphen"/>ctise.</p>
+                  <p>That great Bulwark of objection, (Christ is the sole Head of the Church, <hi>ergo</hi> no other can have the Title) which hath been presumed too strong for an army of Schoolmen to beat down, must necessarily yield upon terms to our side. For although as the Church is internally considered in respect of the kingdome of Grace, and our Saviour Christ as Lord thereof, by right of Redemption, ruling the hearts of the faithful by his spirit, there is no subjection allowable, nor headship to be attributed but to him only; yet as he is King by right of Creation, loving an Imperial Sovereignty over all his creatures, and the Church in a militant condition, which (by reason of an inseperable commixture of good
+<pb n="12" facs="tcp:204910:10"/> and bad, and common relation of the inward and outward man) doth necessarily require an external policy to maintain a uniformity and order in the worship of God, so he hath ordained his Vicegerent on earth to whom both Clergy and Laity most be subject.</p>
+                  <p>And in this qualification of sense Kings may be truly sti<g ref="char:EOLhyphen"/>led supream Heads in causes Ecclesiastical, within their Do<g ref="char:EOLhyphen"/>minions; Thus <hi>Samuel</hi> called <hi>Saul</hi> the Head of the Tribes of Israel, 1 <hi>Sam.</hi> 15. 17. which <hi>in eodem signo rationis</hi> doth imply all persons, as well Ecclesiastical as civil in that Com<g ref="char:EOLhyphen"/>monwealth, to be his subordinate members. And that the Priests were subject in their very Offices to the supreame power of their magistrates, 2 <hi>Chron. 8. Solomons</hi> Acts in or<g ref="char:EOLhyphen"/>dering their courses, and appointing the <hi>Levites</hi> to their charges, (who in manifestation of their duty are faid not to depart from the commandement of the King) do sufficiently evidence, whose authority likewise to punish sins of the first table, that refer to Religion as well as those of the second, which belong to humane society.</p>
+                  <p>Gods own prescript Laws to <hi>Moses, Deut. 13. Deut. 17. Levit.</hi> 17. are the authentique seals to confirm, whereunto we may annex that fact of our Saviour Christ himself, cha<g ref="char:EOLhyphen"/>stising the <hi>Jewish</hi> Pedlers, by vertue of his divine Royalty, for profanation of the Temple, as an exemplary proof be<g ref="char:EOLhyphen"/>yond all exception.</p>
+                  <p>Having pickt out the pith of their Divinity in the former objection, there resteth one hard Argument more to break, wherein lies the marrow of their Logick, if the power, say they, in Ecclesiastical matters be proper to the supream ma<g ref="char:EOLhyphen"/>gistrate as a Mastistrate, then it should belong to all magi<g ref="char:EOLhyphen"/>strates, and consequently to the heathen: the definition of
+<pb n="13" facs="tcp:204910:10"/> a magistrate being one in Christian and Heathen Princes; but this would be both sinful and ridiculous to assert, <hi>ergo</hi> that cannot lawfully be maintained.</p>
+                  <p>Truly this is a witty sophisme, which deserves the Reply of an ingenious Respondent in the Philosophers School, <hi>salse profecto, sed falso quidem.</hi> I presume the same learning which qualified them to oppose others, may enable them to answer themselves in this point; for if their consequence be good, <hi>Baals</hi> Priests had as much right to the service of the Tem<g ref="char:EOLhyphen"/>ple, as the <hi>Levitical</hi> Clergy-men, neither can our Protestant ministers have a better Title to the dispensation of Christs ordinances, then the officers of the <hi>Romish</hi> Church do now claim.</p>
+                  <p>Therefore if they will honestly defend their own as we do the Kings authority in the Church, they must acknowledge their argument to be contrary to the principles of art, as their opinion is to the precepts of Religion; for when a Restri<g ref="char:EOLhyphen"/>ctive Term is adjoyned to an equivocal subject (as magistrate is) To argue from an indefinite to a universall, is an illegal consequence, the reason is, because what is attributed by such a note of limitation, is not an absolute but a comparate propriety, which doth <hi>convenire subjecto mediante alio,</hi> as the power of the King in causes Ecclesiastical is not proper to him, simply <hi>secundum naturam,</hi> but Relatively as he is a true Christian Magistrate; according to which univocation, if their Argument had been formed, the consequence would be logically true.</p>
+                  <p>But as we do appropriate this power onely to Kings truly Christian, So I must acquaint them that the Heathen subjects had such a Reverend respect to the authority of the supream magistrate in matters of their idolatrous Religion, that <hi>Ari<g ref="char:EOLhyphen"/>stotle,
+<pb n="14" facs="tcp:204910:11"/> Polit. l.</hi> 3. could say <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. The King is Lord and Ruler of things that per<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain to the Gods.</p>
+                  <p>To conclude, I wish those men, who (like the first mat<g ref="char:EOLhyphen"/>ter have an indifferency to all forms, and are so unfixedly disposed in Religion, that they can be content with the <hi>Si<g ref="char:EOLhyphen"/>chemites,</hi> to be circumcised for the<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r advantage, would (not for wrath but for conscience sake) give a seasonable Testi<g ref="char:EOLhyphen"/>mony of their obedience by a willing conformity to the Kings power in Ecclesiastical causes, that the Church may be no longer grieved with the rapine of forreign wolves, or spoil of domestick foxes, but that sound doctr<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne may flou<g ref="char:EOLhyphen"/>rish within her ga<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es, and true discipline be establ<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>shed in her borders, to which end the Lord send us a speedy Restaura<g ref="char:EOLhyphen"/>tion of our ancient Government by the hands of <hi>Zerubba<g ref="char:EOLhyphen"/>bel</hi> and <hi>Joshua,</hi> the King and the Bishop, that as we are bap<g ref="char:EOLhyphen"/>tized in one faith, so we may be subject to one Rule, &amp; as we are of one body, we may be all of one mind, to worship God both in the purity and beauty of holinesse, and to pre<g ref="char:EOLhyphen"/>serve the unity of the spirit in the bond of peace. <hi>Amen.</hi>
+                  </p>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:204910:11"/>
+                  <p>THE AUTHORS LETTER TO AN Anti-Episcopall MINISTER Concerning the GOVERNMENT OF THE CHURCH.</p>
+                  <q>
+                     <l>Qua potes, excusa, nec Amici discere causam,</l>
+                     <l>Quo pede caepisti, sic bene semper eas.</l>
+                     <bibl>Ovid.</bibl>
+                  </q>
+                  <p>Written <hi>Anno Domini</hi> 1651.</p>
+                  <p>
+                     <hi>LONDON,</hi> Printed for <hi>Philemon Stephens</hi> the younger at the <hi>Kings Arms</hi> over against the <hi>Middle Temple Gate.</hi> 1661.</p>
+               </div>
+            </front>
+            <body>
+               <div type="letter">
+                  <pb facs="tcp:204910:12"/>
+                  <pb n="17" facs="tcp:204910:12"/>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">A</seg>Lthough it be a task above the greatest experiment of Nature, to stop the open sepulchres of other mens mouths; yet to vindicate a mans own name from the unjust imputations of scandalous a<g ref="char:EOLhyphen"/>spersions, is a duty compatible with the least vigour of grace.</p>
+                  <p>It is well known to the messenger who brought me your challenge, how unwilling I was at first to open my <hi>Cepha<g ref="char:EOLhyphen"/>lique</hi> vein in those <hi>Canicular</hi> daies, wherein Remedies strong<g ref="char:EOLhyphen"/>ly applyed, are more dangerous then diseases, and most men by a malignant constellation, unluckily complexion'd to dis<g ref="char:EOLhyphen"/>like what they cannot correct, but receiving a second infor<g ref="char:EOLhyphen"/>mation of your <hi>Goliah</hi> spirit, daring the whole Israel of our side to a Goose-quil-fight, after a serious debate betwixt my understanding and will, I resolved at last, rather to expose my self to the hazardous censure of some for a dispensible forwardnesse, then necessarily to incur the blame of others, and my own conscience, for an inexcusable cowardise in Religion.</p>
+                  <p>Thanks be to God, I do not only believe as a Christian; but as a scholler understand the divine right of Church-Go<g ref="char:EOLhyphen"/>vernment,
+<pb n="18" facs="tcp:204910:13"/> which in its substantials, by the consent of most men on all sides, i<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> not ambulatory (like a moveable Tent) to be set up, and put down, at the pleasure either of civil or Ecclesiastical power, but (like the <hi>Persian</hi> Law) unaltera<g ref="char:EOLhyphen"/>ble, both in respect of persons, and time; but whether the administration of this decreed Government, be by divine commission originally granted, either to a Presbyterian, In<g ref="char:EOLhyphen"/>dependent, or Episcopal ministry, <hi>sub Judice lis est:</hi> in which processe (dismissing the sceptique enqu<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ries of humane Au<g ref="char:EOLhyphen"/>thors, as writs insufficient to determine controversie) we must appeal to the word of God for our <hi>quietus est.</hi>
+                  </p>
+                  <p>The Consistorian Presbytery, which for a wh<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le (like <hi>Senacheribs</hi> Letter) insulted over Kings, people, hath al<g ref="char:EOLhyphen"/>ways been as great a stranger to my study, as to my faith; for I could never think that the extemporary invention of a necessitous condition, would ever become an object of spe<g ref="char:EOLhyphen"/>culation, much lesse of practise, to the Church of <hi>England.</hi> The Arguments which are chiefly urged to maintain the credit of this society upon a divine score, are altogether un<g ref="char:EOLhyphen"/>satisfactory to my conscience, not so much because they do in a singular construction, run counter to the Catholique sentence of the Church in former ages, as in that they offer violence to the natural sense of the word, which is the best Interpreter of it self; for I would gladly be informed by you, or any man of your constitution, who (like <hi>Diogenes,</hi> an <hi>Epicure</hi> by conversation, but a <hi>Stoick</hi> in opinion) can seem an Independent in face, yet be a Presbyterian in heart, why, or how the Term Ruler, which in all places of Scripture, touching spiritual matters, is the essential predicate of a Pa<g ref="char:EOLhyphen"/>stour, should or can be understood of a Lay Elder, especial<g ref="char:EOLhyphen"/>ly since the original word used by St. <hi>Paul, in Genere, Rom.</hi>
+                     <pb n="19" facs="tcp:204910:13"/> 12. 8. is by the same Apostle 1 <hi>Thess.</hi> 5. 12. directly given to the Pastour <hi>in specie.</hi>
+                  </p>
+                  <p>I would likewise willingly know by what mystery of Art you can prove the Teacher, Exhorter, and Ruler to be distinct kinds of officers, the Acts of Teaching, Exhorting, and Ruling, 1 <hi>Tim. 3. 2 Tim. 4. Heb.</hi> 13. 17. being in se<g ref="char:EOLhyphen"/>veral and plainly intelligible Text letters, jointly appropri<g ref="char:EOLhyphen"/>ated to one and the same subject: or with what confidence you can compose your self to resolve the question, whether the Teacher be above the Exhortor, or the Exhortor above the Teacher, in their distinct offices, <hi>utrumque non vacat ab<g ref="char:EOLhyphen"/>surdo;</hi> for if the Teacher be above the Exhortor, then the Teacher may exhort, but the Exhortor not teach, and so <hi>è converso,</hi> the reason is, because the greater may doe, what the lesse can, but the lesse cannot, what the greater doth, as the Teacher and Exhortor may govern as well as the Ruler, but the Ruler cannot teach nor exhort as well as they, accor<g ref="char:EOLhyphen"/>ding to the classical Commentators own opinion. There<g ref="char:EOLhyphen"/>fore (unlesse there be an <hi>Algebra</hi> in Divinity to invent the secret of a numeral diversity without a difference) this in<g ref="char:EOLhyphen"/>comprehensible new distinction of Ecclesiastical functions must needs be such a grand <hi>Asystaton</hi> to the word of God, as he that is but an <hi>ABCdarian</hi> in Scripture, may easily spell at the first sight.</p>
+                  <p>And here I cannot sufficiently wonder at the deliberate, and <hi>cum privilegio</hi> errour of our Synodical Presbyters, who so hotly urge the inseperability of the keys a<g ref="char:EOLhyphen"/>gainst<note place="margin">Vid. jus divinum in Regim. Eccles.</note> their Independent brethren, to lock up the peoples mouths from gaping after the power of Ecclesiastical Jurisdiction, and yet allow those a<g ref="char:EOLhyphen"/>mongst themselves to judge in the Consistory, whom they
+<pb n="20" facs="tcp:204910:14"/> forbid to preach in the Pulpir. Certainly, if the reason be forcible enough to bar the Independent multitude, it must of necessity be equally effectual to exclude the Presbyterian singularity, from the management of spiritual commissions, the propriety of a thing being as incommunicable to one, as to many of a different kind, for the use of Reason is as incom<g ref="char:EOLhyphen"/>patible with the nature of a particular, as of a universal beast<g ref="char:EOLhyphen"/>hood.</p>
+                  <p>
+                     <hi>Baalams</hi> Asse by a natural constitution had no more privi<g ref="char:EOLhyphen"/>ledge to speak, then the whole family of that sex, neither hath a Triumvirate of Laymen better authority to rule in the Church, then a century of the same lineage.</p>
+                  <p>Away then with <hi>solum non solus praeest,</hi> a fresh distinction, which smells of as much untruth as novelty, calculated for the meridian rather of a Utopian Commonwealth, then an <hi>English</hi> Church. Can a real division stand with an absolute inseperability of the keys: hath God joyned them together in his word, and must they now be divorced by humane in<g ref="char:EOLhyphen"/>ventions? <hi>ubi scriptura non distinguit, nec nos distinguere de<g ref="char:EOLhyphen"/>bemus,</hi> was alwayes held a sound Canon in the doctrinal bo<g ref="char:EOLhyphen"/>dy of Theology, till the Popes head by the destructive ma<g ref="char:EOLhyphen"/>chination of an <hi>Index expurgatorius,</hi> broke off the neck of the Rule.</p>
+                  <p>What a sinful shame is it for our reforming prophets, (who claim the reputation of Gospel Edifiers) to go about to build up <hi>Jerusalem</hi> with the Rubbish of <hi>Babylon?</hi> and to dawb over the wall of Christian Religion, with the untem<g ref="char:EOLhyphen"/>pered mortar of Jesuitical distinctions. Christ gave the keys to his Disciples, as preaching ministers of the word, and powerful dispensers of his Sacraments; therefore such as they are the sole Proprietaries of that Authority, for <hi>qua<g ref="char:EOLhyphen"/>tenus
+<pb n="21" facs="tcp:204910:14"/> ipsum includit per se.</hi> How then can this new thing cal<g ref="char:EOLhyphen"/>led Lay-Elder be rightly said to rule only? who hath no right to rule at all: surely <hi>dabo tibi claves regni coelorum</hi> was not spoken to a mixt person, comprehending Clergy and Laity, (St <hi>Peter</hi> was no such Hermaphrodite) but to a Ho<g ref="char:EOLhyphen"/>mogeneal root, virtually containing a univocal generation of ministerial branches, to be spread over the whole world, for defence of the Catholique Church. Oh take heed therefore how you corrupt sound Texts with adulterate glosses, or advance a <hi>Geneva</hi> Transla<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion above Gods origi<g ref="char:EOLhyphen"/>nal, let not the biasse of novel opinions turn your heart from the way of Truth, (it being far better to halt in the right path then to run headlong into a wrong) but seriously consider whether it be not safer to maintain a Church-warden by Ec<g ref="char:EOLhyphen"/>clesiastical policy, then a Lay Elder by divine right? As for the precise Independency, which is now the predomi<g ref="char:EOLhyphen"/>nant humour in the distemper'd body of this Common<g ref="char:EOLhyphen"/>wealth; I conceive it to be falsly grounded, either on pre<g ref="char:EOLhyphen"/>cepts not truly understood, or examples not commonly pra<g ref="char:EOLhyphen"/>ctised: by the one, that is, erroneously attributed to the people, which is directly intended to Church Officers, as <hi>Matth.</hi> 18. 17. and from the other, that, which for the pro<g ref="char:EOLhyphen"/>mulgation of the Gospel in the blooming of the Church, was dispensed to some special persons by an extraordinary instinct of the holy Ghost, as <hi>Acts</hi> 11. 19, 20. is drawn in<g ref="char:EOLhyphen"/>to a common and ordinary use for all sorts of men in these dayes.</p>
+                  <p>From the first particular we have a ready weapon to beat down the strong imagination of some vulgar inqu<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>si<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ors, who report the opinative enmity betwixt the Presbyterian and Independent to be an irreconcileable opposition, as if
+<pb n="22" facs="tcp:204910:15"/> the one were a <hi>Jew,</hi> and the other an <hi>Egyptian:</hi> a bold er<g ref="char:EOLhyphen"/>rour, worthy to be put out of countenance in the stocks of correction; for although those yeomen in Religion, hold not together <hi>in capite,</hi> yet they are joint-tenants in tail, and (like the monumental foxes) are bound by agreement to find firebrands for the combustion of the Church.</p>
+                  <p>The only variance amongst them is, either in the Arith<g ref="char:EOLhyphen"/>metical account of sin, as <hi>Mary Magdelen,</hi> who was posses<g ref="char:EOLhyphen"/>sed with seven devils, differ'd from the <hi>Gadarene</hi> that had the company of a legion, or in the temporal computation of their original, as <hi>Cain,</hi> the first murtherer, was distinguisht from <hi>Judas</hi> the greatest Traytor in the world.</p>
+                  <p>In which respect (though some, mistaken in the science of Ecclesiastical Heraldry, have given Presbyterians the honour to be of the older House) the Independents, with<g ref="char:EOLhyphen"/>out suspicion of Pharisaisme may at a festival dinner, chal<g ref="char:EOLhyphen"/>lenge the uppermost place as their due, by an unquestiona<g ref="char:EOLhyphen"/>ble right of preheminence from their ancient Progenitors, for (unlesse <hi>Aarons Levites</hi> superannuated, did degenerate into Lay Elders, or the Assemblie in the case of that run<g ref="char:EOLhyphen"/>away Concubine, kill with over-leacherous kindnesse, were a type of a <hi>Geneva</hi> Consistory) <hi>I</hi> cannot apprehend the least advantage either of a right line in sense, or collateral in consequence, to deduce the Genealogy of a Presbyterian (in the last Edition) through the whole age of the old Te<g ref="char:EOLhyphen"/>stament, whereas the Independents pedigree, is notoriously known to be derived from the Congregational confederates of <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> famous upon Record in the very infancy of the Law.</p>
+                  <p>But passing from their Prerogative to their presumption, give me leave in a just exprobration to deride the confidence
+<pb n="23" facs="tcp:204910:15"/> of this forward generation, who (ere they have learned with the <hi>Ethiopian</hi> Eunuch to understand the Scriptures) will undertake to dispute in the schoole of <hi>Tyrannus,</hi> and (as if they were of the house of <hi>Stephanus</hi>) be their own ordain<g ref="char:EOLhyphen"/>ers to save others, before they know (like St. <hi>Pauls</hi> Jailor) what they must doe to be saved themselves.</p>
+                  <p>For who but a fools wise man will believe, that <hi>Davids</hi> eating the shew bread, was a Catholique licence for every hunger-starved Israelite, or <hi>Epicure Jew</hi> to make it his ordi<g ref="char:EOLhyphen"/>nary meals meat.</p>
+                  <p>Necessity, that great School-mistresse of Arts, (though it hath no law by proverb) is not lawlesse by Providence, neither was it ever decreed by the policy of heaven, that a<g ref="char:EOLhyphen"/>ny man (though he owneth the condition of the unjust Stew<g ref="char:EOLhyphen"/>ard, without art of husbandry to dig, and boldnesse to beg) should relieve the want of his teeth by an injustifiable trade of the tongue.</p>
+                  <p>It seems a merry spectacle to behold a serpentine mecha<g ref="char:EOLhyphen"/>nick, who like a pictur'd head, hath much art, but no sense, to vault from a Tub into a Pulpit: but it is a sad history in<g ref="char:EOLhyphen"/>deed to hear him with the strings of his tongue, lead a troop of silly evites by the eares, out of the garden of Paradise, in<g ref="char:EOLhyphen"/>to the wildernesse of hell, by fooling them into a fanatick fancy, that they may be wiser, then God by creation fa<g ref="char:EOLhyphen"/>shioned them to be, nor can the innocency or uprightnesse of mens intentions excuse the obliquity of their actions, no more then the <hi>Bethshemites</hi> harmlesse curiosity in looking in<g ref="char:EOLhyphen"/>to the Ark, or <hi>Vzza's</hi> conceited courtesy in touching it, could priviledge them from the punishment of death. A handsome pair of <hi>Judaical</hi> presidents to damn the practise of those men, who are either overbusie in prying into Gods
+<pb n="24" facs="tcp:204910:16"/> secret counsel, or too presumptious in handling his revealed will.</p>
+                  <p>It was not losse of limb, but of life, for any one (except <hi>Aaron</hi> and his sons) to wait on the Priesthood in the old Church, and if God were so careful by a penal statute of death, to provide a uniformity of consecrated officers to at<g ref="char:EOLhyphen"/>tend on his Altar under the Law, why should we so much undervalue the Majesty of our Saviour Christ, and his <hi>Eco<g ref="char:EOLhyphen"/>nomical</hi> providence over the houshold of faith, as to think that he hath allowed his own table to be served with a Gal<g ref="char:EOLhyphen"/>lamalfry of ministers under the Gospel; or that he doth ap<g ref="char:EOLhyphen"/>prove an unpolished rabble of lame and blind Laicks, to set themselves up as pillars and lights in the Christian Church, since those even amongst the Clergy, who had but the least blemish of corporal deformities were forbidden to officiate in the <hi>Jewish</hi> Sanctuary.</p>
+                  <p>The offering up of incense was an acceptable service, as well to procure the blessing of Gods love, as to prevent the curse of his anger, yet being unlawfully done, by hands not ordained to the performance of the duty, it became an im<g ref="char:EOLhyphen"/>pulsive cause of severe vengeance, the Preface only of which misdemeanour exposed <hi>Vzziah</hi> (Royalty having no ward against the stroak of divine Justice) to the grievous penance of a durable disease; and if it were the just merit of a King to be marked in the forehead, for committing but a demi<g ref="char:EOLhyphen"/>rape on the Priests office, what should Minimes of men de<g ref="char:EOLhyphen"/>serve to suffer, who in a full career of sinfull ambition, pur<g ref="char:EOLhyphen"/>sue the honour of a higher calling, then God hath made them either capable to overtake, or skilful to undergo.</p>
+                  <p>Verily the Camels doom in the fable, who for desiring the Bulls horns, lost his own eares, is a penalty too modest
+<pb n="25" facs="tcp:204910:16"/> for such Mountebank adventurers. Doth not the Scripture witnesse, that Christ put some Teachers in the Church, to teach us that no man should presume to put himself, and but some, to assure us, that all cannot be put in the same office, and is not his short plea in the Brethrens case a signal decla<g ref="char:EOLhyphen"/>ration to the whole world, that as he, being dedicated to a spiritual imployment, would not intangle himself with ci<g ref="char:EOLhyphen"/>vil matters: so no man that is constituted in a civil vocati<g ref="char:EOLhyphen"/>on, should be bold to meddle with spiritual affairs.</p>
+                  <p>Truly, if the coming into <hi>Moses</hi> chair without <hi>Aarons</hi> call, doth not signify a climbing up the wrong way, I am yet to learn the meaning of entring in at the right door, or if a self-will'd invading of the ministerial function. be not to run in Gods errand without sending, I know not what it can be to go with a Commission; I heartily wish those watchfull Seers, who are so clear-sighted in espying the motes of others, had the illumination of true grace to dis<g ref="char:EOLhyphen"/>cern the beams of their own errours; for I must roundly tell them, if St. <hi>Pauls</hi> check to the pragmatical <hi>Thessaloni<g ref="char:EOLhyphen"/>ans,</hi> cannot humble them into a continence of themselves within the term of their own businesse, St. <hi>Peters</hi> censure will justly exalt them into the fellowship of murderers and thieves.</p>
+                  <p>Neither can I omit to pay the tribute of the like charita<g ref="char:EOLhyphen"/>ble affection to the desperate fraternity of their next kindred by bloud, whose brains, overwhelm'd with the vapours of an Anabaptistical feaver, dispose them to dream of a ubi<g ref="char:EOLhyphen"/>quitarie coordination of men, which to those who are throughly awakened into the liberty of their senses, is all one with an exact confusion of States; for order (without using the rack of an abusive Trope to make it speak more
+<pb n="26" facs="tcp:204910:17"/> truth then it literally intends) is nothing else but the Stew<g ref="char:EOLhyphen"/>ardship of nature, maintained by a gradual procession, as well of one above another in place, as after another in time; therefore it can be no lesse then an abnegation of our Crea<g ref="char:EOLhyphen"/>torship, and a rebellious outlawing of our selves from divine protection, to seek that on earth, which is not to be found in Heaven, save in God only, whose individual identity of es<g ref="char:EOLhyphen"/>sence is the only exception against irregularity of persons. All other creatures (though of the same kind, as men and Angels) by reason of their numerical difference in nature, being susceptible of degrees in accidentall qualifications: and how suitable this physical observation is to religious doctrine St. <hi>Pauls</hi> brief injunction in words, Let every soul be subject, is a large lecture of confirmation in effect, which universal precept not only includeth the world of liberal and mechanick Artists, but likewise the whole tribe of Ecclesia<g ref="char:EOLhyphen"/>stical officers, neither can that sophistical subterfuge (the quintessence of Presbyterian Tyranny) that Church-men are subject to Kings in their persons, but not in their office, free them from the compleat duty of the Text, but is rather an aggravation of their untowardnesse to obedience for such Legierdemain (like that Apologetical distinction which the <hi>Romanists</hi> invented for <hi>Julius</hi> the Third, that he was a good Pope, but a bad man) though it may dilude a child of <hi>Nini<g ref="char:EOLhyphen"/>veh</hi> that knows not the right-hand from the left, cannot da<g ref="char:EOLhyphen"/>zle the eyes of intelligent persons from a sensible discovery of the imposture, because ministers, <hi>quatenus</hi> ministers, and in the very officious relation of their spiritual factorship (un<g ref="char:EOLhyphen"/>lesse Scripture be of no more value then a Legendary proof) are liable to the censure, Judgement and Reproof of the su<g ref="char:EOLhyphen"/>pream Magistrate.</p>
+                  <pb n="27" facs="tcp:204910:17"/>
+                  <p>For that <hi>Moses,</hi> out of pious anger, hotly rebuking <hi>Aaron</hi> for making the golden Calfe, was guilty of an over-zealous presumption, or <hi>Aaron,</hi> by a way of penitential submission, calling him Lord, of too reverend dissimulation; I must professe, <hi>I</hi> am not wicked enough to believe, nor whether <hi>Solomon,</hi> who by his own regal authority, deposed <hi>Abiathar</hi> the high Priest, and set <hi>Zadock</hi> in his office, did act beyond the sphear of his calling.</p>
+                  <p>Have <hi>I</hi> an impudent sufficiency of prophane Criticisme to question? <hi>I</hi> am neither ignorant nor incredulous of the powerful priviledges which have been, and still are familiar to Christian Worthies, yet <hi>I</hi> am loth to believe that those men who will not obey as subjects for an hour, shall reign as Kings on the Earth for a thousand years, or that they who esteem it the best policy of discipline to march in bands (like <hi>Solomons</hi> locusts) without a Leader, are a fit Ar<g ref="char:EOLhyphen"/>my (though their teeth be swords, and their jaw-teeth knives) to fight against <hi>Gog</hi> and <hi>Magog</hi> for the Monarchy of the world.</p>
+                  <p>
+                     <hi>I</hi> rather think such fool-hardy volunteers that list them<g ref="char:EOLhyphen"/>selves in the service of the Church, to bring the body into one ranck, without the word of Gods command, are more apt (like <hi>Elies</hi> sons) to grease their mouths with the fat of the peoples offerings, and to lye with their Sisters at the Congregation door, then to stand up against idolatrous Phi<g ref="char:EOLhyphen"/>listines, for the Redemption of Christs Ark, or to sacrifice their lives in defence of the Gospel.</p>
+                  <p>But as a learned <hi>English</hi> man once said in case of History, so may <hi>I</hi> in this controversie, He that followeth truth too close to the heels, may chance to have his teeth dasht out: my present purpose is rather to vent my own, then to traf<g ref="char:EOLhyphen"/>fick
+<pb n="28" facs="tcp:204910:18"/> with other mens opinions; yet this <hi>I</hi> must believingly say, the Presbyterian ruling, and Independent preaching, Lay Elders are no more warranted <hi>jure divino,</hi> then Usur<g ref="char:EOLhyphen"/>pers are allowed by municipal, or Usurers by the civill Laws.</p>
+                  <p>And if our Saviour Christs expostulatory demand, who made me a Judge? be not Argument enough of conviction to the one, and the Apostles determinate question, are all prophets? a sufficient answer of satisfaction to the other, I shall leave them both to content themselves with that liber<g ref="char:EOLhyphen"/>ty which St. <hi>Paul</hi> gave to the <hi>Corinthians,</hi> if they will be ig<g ref="char:EOLhyphen"/>norant, let them be ignorant still, and conclude their opini<g ref="char:EOLhyphen"/>ons to sympathize with the nature of those perverse kind of devils, which cannot be cast out but by prayer and fa<g ref="char:EOLhyphen"/>sting.</p>
+                  <p>The Episcopal jurisdiction which consisteth in a perpetual right of presidency over the Presbytery, is both to my faith and reason the proper subject of Church Government, confirmed by <hi>Aarons</hi> superintendency over the <hi>Levites</hi> in time of the Law, and by the Apostles eminency above the Disciples under the Gospel, whose jurisdictive prehemi<g ref="char:EOLhyphen"/>nence was not (like the gift of miraculous power, a spiritual monopoly, to be extinguished with their persons, but a com<g ref="char:EOLhyphen"/>prehensive priviledge, entailed on their successours to the worlds end.</p>
+                  <p>Their extraordinary personal qualifications, served to convert those that were without, but their Prerogative pow<g ref="char:EOLhyphen"/>er to govern them who were within the line of profest Chri<g ref="char:EOLhyphen"/>stianity, the one was given for the birth, the other for the education of Christians, the first died with their original subjects, because the means ceases, when the end is accom<g ref="char:EOLhyphen"/>plished,
+<pb n="29" facs="tcp:204910:18"/> but the second lives in a derivative posterity, be<g ref="char:EOLhyphen"/>cause where the end is not determined, the means must con<g ref="char:EOLhyphen"/>tinue; for although the essence of Church Government be <hi>in facto,</hi> yet the exercise is still <hi>in fieri,</hi> committed to the hands of select officers, not for a temporary use, but a per<g ref="char:EOLhyphen"/>petual work of the ministry, till we all come in the unity of faith to the perfection of Saints.</p>
+                  <p>Neither is it agreeable to the principles of religious rea<g ref="char:EOLhyphen"/>son, that what was heretofore of good, should now be of bad, or no use in the Church.</p>
+                  <p>Why should not I believe it an ordinance of Gods appro<g ref="char:EOLhyphen"/>bative will, that, as the Pontificial dignity begun with <hi>Aa<g ref="char:EOLhyphen"/>ron,</hi> continued <hi>de jure</hi> in a successive Priesthood, till Christs coming in the flesh? so the Prelatical order founded in the Apostles, shall remain in an Episcopal Generation, till his coming to judgement.</p>
+                  <p>I am sure an orderly rule to prevent the growth of con<g ref="char:EOLhyphen"/>tentious spirits, is fit for Christians as well as Jews, and the practise of disciplinary jurisdiction as needfull in this age, as in the primitive time, mongrel issues both of schismatique and heretical Sects, being now as much swarming in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as grassehoppers once were in <hi>Egypt,</hi> or broods of monsters are in <hi>Africa.</hi>
+                  </p>
+                  <p>Neither do I build this faith more upon the foundation of politique then Theological inductions; for granting (which is an unquestionable doctrine) that the Apostles received their degree of authoritative superiority above the Disci<g ref="char:EOLhyphen"/>ples, not as extraordinarily gifted persons (because some of the Disciples wrought miracles as well as they) but as mi<g ref="char:EOLhyphen"/>nisterial officers of the Church, it must necessarily follow that the same kind of supereminent power doth rightfully
+<pb n="30" facs="tcp:204910:19"/> belong to all their successours, for reduplicative propositi<g ref="char:EOLhyphen"/>ons are of a universal consequence, according to the noted maxime in the Schools, a <hi>quatenus ad de omni valet conse<g ref="char:EOLhyphen"/>quentia.</hi>
+                  </p>
+                  <p>And whereas it is objected, that Bishops being planted in their office by mans authority, cannot in truth be called the Apostles successours, who were immediately commissiona<g ref="char:EOLhyphen"/>ted by our Saviour Christ, without intervention of humane means.</p>
+                  <p>Therefore our Argument must needs lapse into the scan<g ref="char:EOLhyphen"/>dal of a false progression <hi>ab Hypothesi ad Thesin,</hi> I know not what better Rejoynder I shall make to such a frivolous ca<g ref="char:EOLhyphen"/>vil, then what a sound father replyed to a corrupt Interpre<g ref="char:EOLhyphen"/>ter of Scripture, <hi>nemo ita intelligit, nisi qui nonintelligit,</hi> no man understands that to be a good reason, but he that un<g ref="char:EOLhyphen"/>derstands none; for if lawfull succession in the matter of an office must necessarily depend on the manner of institution, then the Rulers of Israel may not be truly said to have suc<g ref="char:EOLhyphen"/>ceeded <hi>Moses</hi> in their magisterial callings.</p>
+                  <p>Indeed the Apostles immediate mission from Christ (whence they had their Title) doth seem to enter a caveat <hi>in foro Ecclesiae,</hi> against the claim of any other to the same name, but not to the Executorship of the same office, as it was transmittible to posterity.</p>
+                  <p>Next to those everlasting Church: monuments the Apo<g ref="char:EOLhyphen"/>stles, we have the presidential acts of <hi>Timothy</hi> and <hi>Titus,</hi> to make good the right of Episcopal supremacy, whose power of ordination, and prerogative of censuring the offending El<g ref="char:EOLhyphen"/>ders, doth convincingly argue their fixed majority above the Presbyterie, for <hi>par in parem non habet potestatem,</hi> to be active in exercising, and passive in submitting to a power,
+<pb n="31" facs="tcp:204910:19"/> are distinct Acts, which must needs beget an unequal respect in the Subjects, neither can the force of the maxime be de<g ref="char:EOLhyphen"/>feated by that small repulse of a great Rabbi in the schooie of Church Levellers, that one neighbour may compel an<g ref="char:EOLhyphen"/>other to give him satisfaction for wrongs offered, <hi>ergo hoc aliquid nihil est,</hi> which conceit is much like in feature to that ridiculous conceit of <hi>Aesops</hi> fly on the cart, who thought himself authour of the vapouring dust, which was raised by the violent motion of the wheels, who knows not but by execution of the magistrates power, a Steward may be en<g ref="char:EOLhyphen"/>abled to take away the goods of his Lord, and a base hang<g ref="char:EOLhyphen"/>man the life of a noble thief, which are their superiours, yet neither of them have any authority of jurisdiction in them<g ref="char:EOLhyphen"/>selves (which is the state of the question in hand) over their equals; nor is the subjection of one Prophet to ano<g ref="char:EOLhyphen"/>ther, an homage only of moral compliance, which barely consisteth in a mutual submission of judgements to the rule of better advice, as the Disciples of <hi>Smectymnuus</hi> do fondly imagine, because the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, which the Apostle u<g ref="char:EOLhyphen"/>seth 1 <hi>Cor.</hi> 14. 32. is not only by right of Etymology and consent of prophane Writers, an absolute sign of personall subordination, but likewise by the same Apostle repeated to expresse the subjection of people to their supream Gover<g ref="char:EOLhyphen"/>nours, <hi>Rom.</hi> 13. 1. and by St. <hi>Peter</hi> of servants to their ma<g ref="char:EOLhyphen"/>sters, 1 <hi>Pet.</hi> 2. 18. whose duty (as <hi>I</hi> take it) standeth not in an indifferency of complemental officiousnesse, but in the necessity of real obedience.</p>
+                  <p>The common exception against the instance of <hi>Timothy</hi> and <hi>Titus,</hi> as being Evangelists, and consequently neither Bishops themselves, nor fit patterns whereby others may be formed into that office, hath been so abundantly exploded,
+<pb n="32" facs="tcp:204910:20"/> that the finer sort of Presbyterian Advocates are ashamed to own such a course plea.</p>
+                  <p>But that which grates them all to the quick, is their solita<g ref="char:EOLhyphen"/>ry power of ordination, whence the Bishop becomes the Presbyters Godfather, which they being neither willing to confesse, nor able to deny, would fain put off with the old shift of an extraordinary priviledge, whereby indeed they affront themselves, as well as the Bishops, and directly ad<g ref="char:EOLhyphen"/>vance the opinion of those giddy fanaticks, who maintain ordination of ministers to have no foundation in the word of God.</p>
+                  <p>It cannot be denied but all inferiour Ministers are lawfull copartners with their superiours in the Elementary com<g ref="char:EOLhyphen"/>mission, goe and teach, but that an equal interest in the au<g ref="char:EOLhyphen"/>thority of some special administrations should create the in<g ref="char:EOLhyphen"/>mate neighbourhood of a Synonymous complexion be<g ref="char:EOLhyphen"/>twixt them, (as if a Bishop were but the counterpene of a Presbyter) would be no lesse then a demonstration of sin<g ref="char:EOLhyphen"/>gular ignorance to grant.</p>
+                  <p>And what though the Primates of Christianity (who were both the materials and builders of the Church) did act the part of ordinary labourers in Gods vineyard, and were content to live in their spiritual calling by a promiscu<g ref="char:EOLhyphen"/>ous contribution of titular characters; yet the example of their first general understanding was no bar, but an overture (witnesse the history of their own Acts) to an after discri<g ref="char:EOLhyphen"/>mination of particular offices.</p>
+                  <p>Therefore how a perpetual parity (notwithstanding the Apostolical institution of degrees) should be the necessary successour of a temporary enterfare in the ministry, seems an Apocryphal riddle, as far out of the ken of my apprehen<g ref="char:EOLhyphen"/>sion,
+<pb n="33" facs="tcp:204910:20"/> as the hypocrisie of a stratagem is from a childs disco<g ref="char:EOLhyphen"/>very.</p>
+                  <p>Neither can I be satisfied why the argument of a nomi<g ref="char:EOLhyphen"/>nal community should prevail more with my understanding to professe Bishops and Presbyters but one in office, then to deny Apostles and Disciples (having the same familiarity of appellation) to be divers; for if the medium be of pure necessity, Apostles and Disciples must be one in office, as well as Bishops and Presbyters, if it be not, Bishops and Presbyters may be diverse, as well as Apostles and Disci<g ref="char:EOLhyphen"/>ples: and if one officer could subsist with variety of names, why might variety of officers with one name; why not a Bishop and Presbyter with the common name of Elder, as well as an Apostle, with the distinct name of Presbyter and Deacon.</p>
+                  <p>To clear this point more fully from the mist of doubtfull Expositions, and to cut the throat of that thread-bare evasi<g ref="char:EOLhyphen"/>on, <hi>Privilegia personalia non trahuntur in exemplum.</hi>
+                  </p>
+                  <p>St. <hi>John</hi> doth <hi>digito demonstrare,</hi> directly delineate the substance of Episcopal authority, for the Angels of the <hi>A<g ref="char:EOLhyphen"/>sian</hi> Churches, were neither Apostles nor Evangelists, (all of them being dead when he wrote those Epistles) and yet they were reared in a degree (if not an order) of dignity a<g ref="char:EOLhyphen"/>bove the Presbytery within their several precincts, as ap<g ref="char:EOLhyphen"/>pears by the peculiar and definite application of his stile, where the article <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> prefixt to the substantive, to the Angel, and doth not only denote a determinate <hi>individuum,</hi> but an eminent person, which is a sufficient confutation of that beggerly shift, which supposeth a collective sense of the words, equally including the whole Presbytery, whereas both the direction and charge of the Epistles do notably re<g ref="char:EOLhyphen"/>strain
+<pb n="34" facs="tcp:204910:21"/> the summary intention of the Apostles expression, in a distributive interpretation to the singular Bishops of those Churches, for as it is a blasphemous imagination to con<g ref="char:EOLhyphen"/>ceive the holy Ghost speaking more then he intends: so it is an unwarrantable presumption to suppose him intending more then he speaks.</p>
+                  <p>Gods written Word is the exact copy of his will, and full number of our faith, which may not be divided by substra<g ref="char:EOLhyphen"/>ction, nor multiplyed by addition.</p>
+                  <p>Shall we practise lesse in our lives, when he commands more in his laws, or when he writes one in the right line of his Word, shall we transcribe many by a crooked Paren<g ref="char:EOLhyphen"/>thesis of an interlineary glosse? What is this, but either to undermine the divine foundation by atheistical detraction, or overlay it by Antichristian superstition:</p>
+                  <p>What rule have we either in Logick or Divinity (without a consequent collection of circumstances from the Text) to give a plural construction to a word of singular termination, or what constraint of Rhetorick can we pretend to fly from the congruity of Grammatical concordance, to the irregular support of a solecistical Synechdoche? For my part, as I think it a necessary duty to observe that directory caution, which I have learned in the primordial Rudiments of Reli<g ref="char:EOLhyphen"/>gion, never to depart from the literal sense, as long as it a<g ref="char:EOLhyphen"/>greeth with the analogy of faith, and contexture of Scri<g ref="char:EOLhyphen"/>pture: so I cannot be perswaded (much lesse convinced in conscience) to believe, that the holy Apostle writing though of infallible things) to failing persons, should wrap up his purpose in an implicite term, since the connexion but of one letter (the issue of an instant pains) would have plainly unsolded the scope of the matter, and explicitely e<g ref="char:EOLhyphen"/>quallized
+<pb n="35" facs="tcp:204910:21"/> his speech to his meaning. The Holy Ghost ex<g ref="char:EOLhyphen"/>plains the vision of seven Candlesticks by an adequate nu<g ref="char:EOLhyphen"/>meration of seven Churches, and the mysterious figure of so many stars by the like quantity of Angels, whereby (if according to the verdict of our new Septuagint Interpreters we understand the whole ministry of the Church) we must consequently destroy the analogical applications of the truth to the Type; for why the same arithmetical propor<g ref="char:EOLhyphen"/>tion should not be maintained betwixt the stars and Angels, as there is betwixt the Candlesticks and Churches, which by a special note in the one, and particular nomination of the other) are precisely limited to the number of seven, I find no ground either of reason to induce, or Religion to command my belief.</p>
+                  <p>As for the contraposition of similitude (whereof the pre<g ref="char:EOLhyphen"/>gnant Presbyters after long travel were delivered) that as a thousand persons making up one Church, is represented by one Candlestick, so many ministers making up one Presby<g ref="char:EOLhyphen"/>tery by one Angel.</p>
+                  <p>I conceive it more fit to exercise a school-boyes wit, then a Divines judgement; for the word Church being a noun collective, which requireth a multitude of men to constitute its essential definition, can bear no proportion of similitude with the term Angel or minister, that is <hi>vox sejunctae signifi<g ref="char:EOLhyphen"/>cationis,</hi> and necessarily excludeth a plurality of persons, besides their false <hi>procedendo à concreto ad abstractum,</hi> which he that is but a blear ey'd Logitian, may judiciousl<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> espy in many ministers, making up one Presbytery, which (to hold a correspondency with the whole) should be exprest: so many ministers making up one Presbyter.</p>
+                  <p>When they have art enough to make this good, I shall
+<pb n="36" facs="tcp:204910:22"/> beg the honour to be their pupil. Indeed sometimes a sin<g ref="char:EOLhyphen"/>gular expression admits of a general construction, as our Sa<g ref="char:EOLhyphen"/>viours speech to St. <hi>Peter, Matth.</hi> 16. 19. (though del<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve<g ref="char:EOLhyphen"/>red in a solitary phrase) is understood in a comprehensive sense, which is not an imaginary inference of private inter<g ref="char:EOLhyphen"/>pretation, but a real exposition of publick truths confirmed by collation of Scripture; for what is signified by Thee in one place, is expounded by Ye in another, and what is in<g ref="char:EOLhyphen"/>tended by <hi>Tibi dabo</hi> to St. <hi>Peter,</hi> is declared by <hi>Accipite</hi> in the rest of the Apostles, but by one Angel to understand all the Presbytery, is not only an Heterodox and crosse con<g ref="char:EOLhyphen"/>struction to the literal sense of the Text it self, but an unsu<g ref="char:EOLhyphen"/>table analysis to the conference of other places, which do e<g ref="char:EOLhyphen"/>vidently appropriate the burthen, as well as the direction of the charge, in an interrupted stile, without variation of number to one person.</p>
+                  <p>Therefore St. <hi>Austins</hi> Apology to his dissenting father, <hi>Dent veniam quidlibet aliud opinantes, ego magis credo tanto Apostolo,</hi> shall be my defence in this case, I shall rather be<g ref="char:EOLhyphen"/>lieve the plain language of one Apostle, then the figurative comments of a Presbyterian university; who (in imitati<g ref="char:EOLhyphen"/>on of that politick knack of <hi>Julius Caesar; Deposuit nomen Di<g ref="char:EOLhyphen"/>ctacurae, at vim retinuit</hi>) do in pure zeal put down the name, but in corrupt affection take up the power of a Bishop, and advance it to a higher step of supercilious severity, then ever the Archest Bishop adventured to practise; for I never heard nor read that any of them (since the Popes power was purged out of this land) did claim the pride of an ungraci<g ref="char:EOLhyphen"/>ous authority to place the chair of state under the stool of re<g ref="char:EOLhyphen"/>pentance, which the rig'd Presbyterians have most impu<g ref="char:EOLhyphen"/>dently done: besides these convincing testimonies of Scri<g ref="char:EOLhyphen"/>pture,
+<pb n="37" facs="tcp:204910:22"/> which to me are as clear as the noon day Sun. The unanimous consent, and universal practise of the Church in all ages, recorded in h<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>story Ecclesiastical, (which is a suf<g ref="char:EOLhyphen"/>ficient evidence for matter of fact) are two main supporters to bear up my belief of the Bishops right. For why should not I credit <hi>Eusebius,</hi> who tells me that <hi>Policarpus</hi> was S. <hi>Iohns</hi> Angel or Bishop of <hi>Smyrna,</hi> as well as <hi>Beza,</hi> who writes that <hi>Calvin</hi> was President of the <hi>Geneva</hi> Assembly, I confess I do as much pity as condemn the humerous dispositions of our factious Novellists, whose heads are troubled with the <hi>Athenian</hi> itch, <hi>non tam magna quam nova mirari,</hi> and (like unstable Weathercocks) carried away with every new puffe of doctrine, from the centry of their old principles: as <hi>ini<g ref="char:EOLhyphen"/>tio non fuit ita,</hi> and <hi>hujusmodi consuetudinem non habemus,</hi> are arguments enough to confute either an inquisitive Pharisee, or a schismatical <hi>Corinthian,</hi> which engageth me to subscribe to the Catholick custome of the Church, rather then con<g ref="char:EOLhyphen"/>sent to the upstart eventilations of private spirits; for al<g ref="char:EOLhyphen"/>though antiquity without truth is but a musty conserve of errour, yet to arrest the tracts of our predecessours upon a bare suspicion of falshood, seems to me an act as much a<g ref="char:EOLhyphen"/>gainst the law of Christian charity, as Ecclesiastical policy, neither is the customary infirmity of a misperswaded con<g ref="char:EOLhyphen"/>science, so dangerous as the peremptory innovation of unad<g ref="char:EOLhyphen"/>vised brains; for humane frailty may extenuate an ignorant errour, but nothing can excuse a presumptuous sin.</p>
+                  <p>To conclude, although our Bishops are now disleized of their ancient tenure by an ejectment deed of the sword, and (who were heretofore thought worthy, as Reverend fathers of dutiful respect) are now become objects of their chil<g ref="char:EOLhyphen"/>drens scorn; yet the present alienation of their condition,
+<pb n="38" facs="tcp:204910:23"/> persecuted by the herd of popular catchpoles) is too soft an argument to turn the edge of my opinion; for in such sub<g ref="char:EOLhyphen"/>stantial cases, (wherein judgement must be usher to affecti<g ref="char:EOLhyphen"/>on) <hi>Cicero</hi>'s paradoxical plea shall be my religious resoluti<g ref="char:EOLhyphen"/>on, <hi>licet irrideat si quis vult, plus apud me tamen vera ratio va<g ref="char:EOLhyphen"/>lebit quam vulgi opinio:</hi> Sir, as I have freely given you this ac<g ref="char:EOLhyphen"/>count of my faith, touching the government of the Church, so <hi>I</hi> hope you will not think it unworthy either your Chri<g ref="char:EOLhyphen"/>stian patience to read, or your learned pains to answers the same, <hi>I</hi> am not so much wedded to my own, but can be in love with better reason, which if you please to afford me, you will engage me, not only to acknowledge my self your conquered enemy in opinion, but likewise willing to sub<g ref="char:EOLhyphen"/>scribe your convert friend in affection,</p>
+                  <closer>
+                     <signed>Christianus Philalethes</signed>
+                  </closer>
+               </div>
+               <div type="poem">
+                  <pb n="39" facs="tcp:204910:23"/>
+                  <head>METROMACHIA, OR, A POETICAL COMBAT Betwixt the AUTHOUR And the same MINISTER.</head>
+                  <lg>
+                     <head>Authour.</head>
+                     <l>IN suckling age, when convert souls were scant,</l>
+                     <l>The Gospel preachers were itinerant,</l>
+                     <l>When Christs chief Lackeys posted day and night</l>
+                     <l>From stage to stage to make a proselyte,</l>
+                     <l>Church Angels then by patent had no lesse</l>
+                     <l>Then the worlds Kingdoms for their Diocesse.</l>
+                     <pb n="40" facs="tcp:204910:24"/>
+                     <l>But when those Christian babes, by the sweet bread</l>
+                     <l>Of life, were sprouted to a numerous head,</l>
+                     <l>Then the unerring counsel thought it meet,</l>
+                     <l>To fasten fetters to the Pastors feet.</l>
+                     <l>The first born Bishops took no over plus,</l>
+                     <l>Above the bounds of <hi>Crete</hi> and <hi>Ephesus,</hi>
+                     </l>
+                     <l>And shall their younger brethren seek to try</l>
+                     <l>Their fortunes by a strange plurality:</l>
+                     <l>As if a christen'd Curate when he list,</l>
+                     <l>Could rebaptize himself Evangelist.</l>
+                     <l>Oh what a spot doth filthy lucre place</l>
+                     <l>Vpon th' example of a Clergy face,</l>
+                     <l>This is the cause so many fixed stars</l>
+                     <l>Are turn'd malignant Planets since these wars,</l>
+                     <l>Who wander from their proper sphears to strike</l>
+                     <l>The vacant sheaf of corn which they best like:</l>
+                     <l>Return b<gap reason="illegible: blotted" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nd shepheards, your commission'd power</l>
+                     <l>Is only for to feed, not to devour</l>
+                     <l>The harmlesse sheep, which (when you run astray)</l>
+                     <l>Are to the wily fox and wolf a prey.</l>
+                     <l>Can they prove faithful martyrs at a stake,</l>
+                     <l>Who love the flock but for the fleeces sake?</l>
+                     <l>The Manna of the word can ne're delight,</l>
+                     <l>Nor make a glutton a true Israelite,</l>
+                     <l>Whose brains are quarter'd in his guts, perplext</l>
+                     <l>To be confin'd unto an empty Text.</l>
+                     <l>Such pulpit flatterers are more fit to prate</l>
+                     <l>In markets, then to preach within the gate</l>
+                     <l>Of the Lords Temple, where the golden wedge</l>
+                     <l>Tempts none but <hi>Achans</hi> into sacriledge:</l>
+                     <pb n="41" facs="tcp:204910:24"/>
+                     <l>Those Elders by their use teach men to try</l>
+                     <l>The Apostles Physick to young <hi>Timothy;</hi>
+                     </l>
+                     <l>And for to purge their Diet from complaints;</l>
+                     <l>They do hold forth the Love-feasts of the Saints.</l>
+                     <l>But where is he that writes himself content,</l>
+                     <l>With the same Authors courser complement</l>
+                     <l>Of food and raiment, that in barren ground</l>
+                     <l>Hath learn'd his thirsty lesson to abound?</l>
+                     <l>Where is the Priest that in a small tith' a place</l>
+                     <l>Can banquet freely on the Herb of Grace?</l>
+                     <l>Or that can frolick with a well pleas'd look</l>
+                     <l>On the lean Index of his <hi>Easter</hi> book,</l>
+                     <l>And like the <hi>Lent</hi> fed <hi>Baptist</hi> glad to call</l>
+                     <l>A desart Vicarage his best Hospital.</l>
+                     <l>Such creatures now are as rare in this Land,</l>
+                     <l>As pilgrime travellers in the <hi>Arabian</hi> sand.</l>
+                  </lg>
+                  <lg>
+                     <head>Minister.</head>
+                     <l>SOme froward Children of our Age still cry,</l>
+                     <l>Though they may have both suck and lullaby</l>
+                     <l>Enough from their Kind Mother, whose full Breast</l>
+                     <l>And sugar'd voice allures them to their rest:</l>
+                     <l>Yet still they cry, because they Children are,</l>
+                     <l>And froward too, and that makes peace a war:</l>
+                     <l>Fie apish, pevish squals, what can no food</l>
+                     <l>Content your palate, but what is not good?</l>
+                     <l>Your blindness makes you want that which you have,</l>
+                     <l>And therefore what you want, not that you crave.</l>
+                     <pb n="42" facs="tcp:204910:25"/>
+                     <l>The Church when in its swadling band it lay,</l>
+                     <l>Had nurses for its infancy, and they</l>
+                     <l>By their great care did cause the tender babe</l>
+                     <l>To stretch its limbs from <hi>Salem</hi> to <hi>Arabe,</hi>
+                     </l>
+                     <l>And (being fairly grown near marriage)</l>
+                     <l>She fell under that <hi>Romish</hi> stepdames rage,</l>
+                     <l>Who did this virgin prostitute to th' lust,</l>
+                     <l>Of all her wanton favourites, then must</l>
+                     <l>This charmed damsel move, or sit, or hold,</l>
+                     <l>As that great whore, or her base lovers would,</l>
+                     <l>They plaid their pranks, and did her teachers frame</l>
+                     <l>By their unscriptur'd model, and thence came</l>
+                     <l>Your lordly Bishops, priests too lordly too,</l>
+                     <l>Which theevish Churchmen did the Church undoe,</l>
+                     <l>Yet long they reign'd, yea reign'd untill this day,</l>
+                     <l>Until the lamb his banner did display,</l>
+                     <l>And snatcht his spouse off from the lions paws,</l>
+                     <l>Where now he gives to rule by his own laws.</l>
+                     <l>And these confine no teacher to one place</l>
+                     <l>Above the rest, but place him or displace,</l>
+                     <l>As work calls for them, here no tithes do draw.</l>
+                     <l>The teacher, but his great Commanders law.</l>
+                  </lg>
+                  <lg>
+                     <head>Authour.</head>
+                     <l>'TIs strange a Lecture man, who undertakes</l>
+                     <l>To teach should be so lavish in mistakes;</l>
+                     <l>Our froward children by instinct do say</l>
+                     <l>They meet with wormwood in their milky way,</l>
+                     <pb n="43" facs="tcp:204910:25"/>
+                     <l>Dropt by nurse foxes, who in wait do ly,</l>
+                     <l>To give them a death sleeping lullaby.</l>
+                     <l>Can the shrill accents of a whining breast</l>
+                     <l>Sweeten their senses with a candid rest!</l>
+                     <l>Whose bones are as unpleasing as the call</l>
+                     <l>Of mourners at an <hi>Irish</hi> funeral.</l>
+                     <l>Can doctrine prove good food mixt with the raw</l>
+                     <l>Juice of schismatical <hi>Coloquintida?</hi>
+                     </l>
+                     <l>What freedom is therein a fettred slave?</l>
+                     <l>Or what a calm of peace can children have?</l>
+                     <l>When that the storming fathers do unstring</l>
+                     <l>Their long hang'd tongues in pulpit skirmishing.</l>
+                     <l>I wish they wanted what they have, and then</l>
+                     <l>They would not crave to have the same agen.</l>
+                     <l>This Clerk doth well display those who did plant</l>
+                     <l>The infant Gospel Temple, but doth want</l>
+                     <l>A good Church Heralds spectacles to see</l>
+                     <l>The Alpha of a Bishops pedegree,</l>
+                     <l>Who is no bastard, stain'd with bloud impure,</l>
+                     <l>Claiming from <hi>Rome</hi> his primogeniture,</l>
+                     <l>But lawful branch of th' Apostolick stock,</l>
+                     <l>VVho built their house upon a lasting rock,</l>
+                     <l>VVhence they by faiths perspective did descry</l>
+                     <l>Mysterious craftsmen of iniquity,</l>
+                     <l>VVho labour'd with an artificial hate,</l>
+                     <l>The spirits purenesse to sophisticate;</l>
+                     <l>Yet did Christs spouse the stepdame bawd defy</l>
+                     <l>That would make sale of her virginiy.</l>
+                     <l>Nor did the <hi>Romish</hi> Church (though in disguise</l>
+                     <l>From the foundation truth apostatize,</l>
+                     <pb n="44" facs="tcp:204910:26"/>
+                     <l>Ʋntil that Damned Counsel spawn'd at <hi>Trent,</hi>
+                     </l>
+                     <l>Had split with Cannons her main Battlement:</l>
+                     <l>What if the Lordly Adjunct were first set</l>
+                     <l>By Kings, as an enamel'd Epithet,</l>
+                     <l>On plain substantial Writers, must that gloss</l>
+                     <l>Bankrupt the <hi>Text</hi> to a perpetual loss?</l>
+                     <l>
+                        <hi>Bishops</hi> commissions cannot lose their dates,</l>
+                     <l>By the access of such Magistrates,</l>
+                     <l>No more then an Appendix Garment can</l>
+                     <l>Ʋndo the bulkie Fabrick of a man.</l>
+                     <l>Is't only now the <hi>Saints</hi> have learn'd to sing</l>
+                     <l>A right tun'd Antheme to their <hi>Heavenly King?</hi>
+                     </l>
+                     <l>Hath he decreed that this new year should be</l>
+                     <l>Proclaim'd the first year of their <hi>Jubilee?</hi>
+                     </l>
+                     <l>Then did our <hi>Martyr'd Predecessors</hi> dwell</l>
+                     <l>Not in <hi>Gods House,</hi> but in the <hi>Gates</hi> of <hi>Hell.</hi>
+                     </l>
+                     <l>Is it his Law that Churches should be built</l>
+                     <l>After the model of a wandring tilt;</l>
+                     <l>And <hi>Churchmen</hi> steer their course from dale to hill</l>
+                     <l>By the large compasse of their greedy will?</l>
+                     <l>The <hi>Apostles</hi> then their <hi>Pastors</hi> wings did clip,</l>
+                     <l>To fix in <hi>Towns</hi> a standing <hi>Eldership.</hi>
+                     </l>
+                     <l>Doth not the Spirit ring an angry peal</l>
+                     <l>Into the <hi>Ephesians</hi> Angels ear, whose zeal</l>
+                     <l>Was shrunk but in degree of maiden heat</l>
+                     <l>From these, where he by calling had his seat.</l>
+                     <l>And is it yet the <hi>Divine</hi> will and law</l>
+                     <l>Of liberty, that <hi>Pastors</hi> may withdraw</l>
+                     <l>Their first love from their flocks, still wasting lesse</l>
+                     <l>Ʋntil it vanish to a nothingnesse?</l>
+                     <pb n="45" facs="tcp:204910:26"/>
+                     <l>Doth not the spirit mark a hireling by</l>
+                     <l>His careless leaving of the <hi>Sheep</hi> to die,</l>
+                     <l>And cursing threaten for such sinful tricks,</l>
+                     <l>To take the <hi>Church</hi> Lights from their candlesticks,</l>
+                     <l>It is Gods work then, or the Devils play</l>
+                     <l>VVhich calls on them to move themselves away?</l>
+                  </lg>
+                  <lg>
+                     <head>Minister.</head>
+                     <l>
+                        <hi>CHildren</hi> and <hi>Fools</hi> tell truth, thus you discover</l>
+                     <l>Your Parentage, and childish rage all over;</l>
+                     <l>And cause you get a <hi>Leader</hi> that seems tall,</l>
+                     <l>Y are glad and mad to follow such a <hi>Saul,</hi>
+                     </l>
+                     <l>VVho feigns to cloath you all in <hi>Scarlet,</hi> but</l>
+                     <l>They will prove Garments of the <hi>Romish</hi> cut;</l>
+                     <l>Amongst the <hi>Prophets</hi> he may prophesie,</l>
+                     <l>That is no Prophet in a <hi>Prophets</hi> eye:</l>
+                     <l>Thus whispers <hi>Mahomet</hi> through his close <hi>Trunk</hi>
+                     </l>
+                     <l>Lies to his creatures, and the <hi>Whore</hi> keeps drunk</l>
+                     <l>VVith her old Prostigies, the giddy many,</l>
+                     <l>VVhich thirst for <hi>Bishops, Priests,</hi> Church forms, or any</l>
+                     <l>Corrupted Lees, and that her lies may take,</l>
+                     <l>She makes her <hi>Sacred Book</hi> her <hi>Almanack:</hi>
+                     </l>
+                     <l>You talk of worm wood <hi>Pulpit</hi> skirmishings</l>
+                     <l>Of <hi>Fetters, Foxes,</hi> and such deadly things:</l>
+                     <l>But here's your cunning, or your knavery,</l>
+                     <l>You are the <hi>Thieves,</hi> yet first make hue and cry,</l>
+                     <pb n="46" facs="tcp:204910:27"/>
+                     <l>Yours are the <hi>fleecing Priests,</hi> the greedy <hi>Dogs,</hi>
+                     </l>
+                     <l>The persecuting <hi>Wolves,</hi> the croaking <hi>Frogs,</hi>
+                     </l>
+                     <l>The <hi>Drones,</hi> the <hi>Wasps,</hi> the <hi>Cranes,</hi> the blind St. <hi>Johns,</hi>
+                     </l>
+                     <l>The <hi>Kill-souls,</hi> and the true <hi>Camenions;</hi>
+                     </l>
+                     <l>And that their Character I truly sing,</l>
+                     <l>There needs no proof, but their just suffering:</l>
+                     <l>But the lost <hi>Bishop,</hi> and his birth is it,</l>
+                     <l>Which you stretch on the <hi>Tenters</hi> of your <hi>Wit;</hi>
+                     </l>
+                     <l>Which with my spectacles the best that are,</l>
+                     <l>I see from Apostolick claim as far</l>
+                     <l>Distant as <hi>East</hi> from <hi>West,</hi> which you likewise</l>
+                     <l>Might see, had you but Eye-salve for your eyes.</l>
+                  </lg>
+                  <lg>
+                     <head>Author.</head>
+                     <l>CHildren and Fools may well be Telltroths, when</l>
+                     <l>The greatest Clerks are not the wisest men:</l>
+                     <l>When men are drunk with lies, the truth must be</l>
+                     <l>Bib'd in by Sucklings in a Mistery.</l>
+                     <l>Whose <hi>Dove</hi>-like-hearts do pant with zealous rage</l>
+                     <l>To hear a Rook blaspheme their Parentage:</l>
+                     <l>Ile not dispute whether a tall <hi>Saul</hi> can,</l>
+                     <l>Lead better then a wandring <hi>Jonathan;</hi>
+                     </l>
+                     <l>Or which doth best set forth a Doctors face,</l>
+                     <l>The <hi>Linsey-Woolsey,</hi> or the <hi>Scarlet</hi> Grace.</l>
+                     <l>But what our Prophets of the New Game, but</l>
+                     <l>Have gain'd in Learning, by a shuffling put</l>
+                     <l>Of their Book <hi>seniors</hi> to the whole sale loss,</l>
+                     <l>Both of personage Text, and vickrage gloss:</l>
+                     <pb n="47" facs="tcp:204910:27"/>
+                     <l>Or what a sound nois'd faith doth fill our ears</l>
+                     <l>Blown from their lung impostum'd Trumpetters,</l>
+                     <l>Is so well noted, that we need not grudge,</l>
+                     <l>To let the whole world be an umpire Iudge,</l>
+                     <l>For when Patch Cobler shall in pride translate</l>
+                     <l>His stool office to a chair Consulate,</l>
+                     <l>And stretch his will beyond the last, to mend</l>
+                     <l>A soolwry trodden with a Scripture end,</l>
+                     <l>When s<gap reason="illegible: blotted" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ipper Taylor shall prefume to make</l>
+                     <l>A Christian wedding garment, for whose sake,</l>
+                     <l>He that did our first lapsing parents blesse</l>
+                     <l>With coverings for their sinful nakednesse,</l>
+                     <l>Hath preordain'd that none should look so high,</l>
+                     <l>But those whom he hath sent to prophesy,</l>
+                     <l>When such pragmatick cutters lay aside</l>
+                     <l>Their sheers, that they may with their tongues di<g ref="char:EOLhyphen"/>vide</l>
+                     <l>Gods word into new fashiond doctrine, how</l>
+                     <l>Can this mad prophet say, <hi>God speed the plow.</hi>
+                     </l>
+                     <l>His chain of ugly names belongs by right,</l>
+                     <l>To an untamed English Iesuite,</l>
+                     <l>Who scorns to be inclos'd within the line</l>
+                     <l>Of Church-communication discipline,</l>
+                     <l>Doth not he sute the picture of a fool,</l>
+                     <l>Or an exploded Dunce in Logick school:</l>
+                     <l>VVho makes his proof by a disfigur'd throng</l>
+                     <l>Of words, absurder then the question.</l>
+                     <l>Are Bishops malefactours, cause they have</l>
+                     <l>Been by a powerful hand conveyd to grave,</l>
+                     <l>Or hurled into prison, must they be</l>
+                     <l>Therefore the objects of just Infamy?</l>
+                     <pb n="48" facs="tcp:204910:28"/>
+                     <l>If reason should be drest still in this guise,</l>
+                     <l>Twould be a sinful Art to syllogize,</l>
+                     <l>For what a damn'd conclusion might men presse</l>
+                     <l>From the contexture of such premises,</l>
+                     <l>By this the <hi>Jews</hi> might argue when Christ died,</l>
+                     <l>That he deserv'd to be so crucified.</l>
+                     <l>He that hath learn'd to level in degree,</l>
+                     <l>A Bishops and a Pastours pedegree,</l>
+                     <l>May by the same invented rule conclude,</l>
+                     <l>The stars are all of equal magnitude.</l>
+                     <l>VVell, since this Clerks complexion is too hot</l>
+                     <l>To be allaid by my Ink gally pot,</l>
+                     <l>Let him alone, 'tis fruitlesse to invite</l>
+                     <l>From silver shrines an Idol Ephraimite,</l>
+                     <l>I see such giddy Church tops will turn round</l>
+                     <l>Till they be gigg'd by Bishops to the ground.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:204910:28"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
